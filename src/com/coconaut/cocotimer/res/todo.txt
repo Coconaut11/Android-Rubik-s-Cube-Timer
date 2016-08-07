@@ -1,7 +1,0 @@
-() - Delay on activating timer 
-() - Scramble
-() - Multitouch timer
-() - Stats (avgs, best, worst...)
-() - Diferent cubes scrambles
-() - Delete last solve button
-() - Delete all solves btn
